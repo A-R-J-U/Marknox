@@ -180,7 +180,7 @@ export const projects = [
     description:
       "This is a portfolio website for the fictional character Yoru.",
     image:
-      "https://raw.githubusercontent.com/A-R-J-U/Yoru-portfolio/refs/heads/main/scr.jpg?token=GHSAT0AAAAAAC3OFOIQMQVWKTPNOA5SZWWSZ2Z5TMQ",
+      "https://raw.githubusercontent.com/A-R-J-U/Yoru-portfolio/refs/heads/main/scr.png",
     tags: [
      "HTML","CSS"
     ],
