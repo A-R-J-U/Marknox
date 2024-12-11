@@ -167,7 +167,7 @@ export const projects = [
     description:
       "the ASCII Library Management and Organization Software! This terminal-based tool helps you manage and organize your personal or small library with a simple and vibrant ASCII interface. The software combines nostalgia with functionality for cataloging, borrowing, and returning books.",
     image:
-      "https://private-user-images.githubusercontent.com/13141046/364116158-a8b3945c-c3e9-4263-b981-f97089070f18.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5MzMzMDQsIm5iZiI6MTczMzkzMzAwNCwicGF0aCI6Ii8xMzE0MTA0Ni8zNjQxMTYxNTgtYThiMzk0NWMtYzNlOS00MjYzLWI5ODEtZjk3MDg5MDcwZjE4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjExVDE2MDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0ODZlYTNjMzk4MWE3YWVjOTkwMzE4ZjAzN2JhZjYxZmZjZTFjZWU0NTlkNmU4YzA3MjhhMTQ1NmI5MDFmNzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TwvtclCcIkq5iMxFgBfP_TBGEJsjX9uPRfyBcdlIPz0",
+      "https://raw.githubusercontent.com/A-R-J-U/The-Librarian/refs/heads/main/scr.png",
     tags: [
      "Python"
     ],
@@ -180,7 +180,7 @@ export const projects = [
     description:
       "This is a portfolio website for the fictional character Yoru.",
     image:
-      "https://private-user-images.githubusercontent.com/13141046/394834651-7a760e74-8b57-461c-909c-777a10a2ee40.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5MzU0MDUsIm5iZiI6MTczMzkzNTEwNSwicGF0aCI6Ii8xMzE0MTA0Ni8zOTQ4MzQ2NTEtN2E3NjBlNzQtOGI1Ny00NjFjLTkwOWMtNzc3YTEwYTJlZTQwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjExVDE2MzgyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmODIxZDc2YWNiNDk0ZTg1NzQ5ZmM4OTM2OTgwNjljZjUwYTZmOTNmNWE4MmQ4MTViNDNmYmE0NmZkNDk4OGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4jhPdZLCktxak6d0hddveQ0pjWnulZvA1jc6ElkBTUU",
+      "https://raw.githubusercontent.com/A-R-J-U/Yoru-portfolio/04cd9b1583ca723888f2edc1f67b1efe8659e109/scr.jpg?token=GHSAT0AAAAAAC3OFOIQYTQM4DXBGAFLIIKWZ2Z5I6A",
     tags: [
      "HTML","CSS"
     ],
